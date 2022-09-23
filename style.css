@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(255, 0, 0); 
+    font-size: 50px;
+}
+
+#s2{
+    color:rgb(255,255, 0);
+}
+
+.c1{
+    color:rgb(238, 8, 188);
+}
+
+.c2{
+    color:rgb(5, 240, 111);
+}
+
+.c2:hover{
+    font-size: 60px;
+}
+.g2{
+    font-size: 60px;
+}
