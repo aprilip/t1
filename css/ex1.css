@@ -1,0 +1,25 @@
+body
+{
+    width: 800px;
+    background: #bd001f url('../images/body_bg.gif') repeat-x top;
+    font-family: Microsoft JhengHei;
+    font-size: 1em;
+    color: #333;
+    margin: 0px auto;
+    margin-top: 50px;
+    padding: 50px;
+}
+ul
+{
+list-style-type: none;
+}
+#nav
+{
+float: right;
+}
+#nav li
+{
+display: inline;
+margin: 0;
+color: #fff;
+}
