@@ -1,8 +1,8 @@
 body
 {
     width: 800px;
-    /*background: #bd001f url('../images/body_bg.gif') repeat-x top;*/
-    background-image: linear-gradient(#f00,#ff0);
+    background: #bd001f url('../images/body_bg.gif') repeat-x top;
+    /*background-image: linear-gradient(#f00,#ff0);*/
     font-family: Microsoft JhengHei;
     font-size: 16px;
     color: #333;
