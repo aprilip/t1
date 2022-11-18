@@ -20,6 +20,16 @@ server.get("/portfolio", function(req, res){
    res.send(portfolios);
 })
   
+server.get("/contact", function(req,res){
+    //res.send("");
+    res.redirect("/BS5_Ex2 Vue.html");
+})
+
+server.post("/contact", function(req,res){
+    console.log(req.body);
+    res.redirect("/BS5_Ex2 Vue.html");
+})
+
 server.listen(5500, function(){
-    console.log("Server is running at port 5500!")
+    console.log("Server is running at port 5500!");
 })
